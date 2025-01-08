@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://shorifulislam0360.netlify.app/](https://shorifulislam0360.netlify.app/)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **react, Node.js, express**
 
 - 📫 How to reach me **shorifulbba0360@gmail.com**
 
